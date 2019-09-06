@@ -1,1 +1,1 @@
-# Python-3
+This repository has some of the personal projects I've worked on for the past couple of years. It mostly contains tinkering around and exploring. Some of this code has been of use to me in my math classes (like integers.py and linalg.py).
